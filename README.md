@@ -11,8 +11,8 @@ Desktop view
 
 ### Links
 
-- Solution URL: [GitHub repo](#)
-- Live Site URL: [Live site URL here](#)
+- Solution URL: [GitHub repo](https://github.com/ElizabethLankford/Quizzical)
+- Live Site URL: [Live site URL here](https://quizzical-el.netlify.app/)
 
 ### Built with
 
